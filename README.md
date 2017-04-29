@@ -1,4 +1,4 @@
-# AngularHelloWorld
+# ang4-installations
 
 ![logo](src/assets/tada-angular.png)
 
