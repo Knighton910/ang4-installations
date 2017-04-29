@@ -10,14 +10,11 @@ import {
   styleUrls: ['./app.component.css']
 })
 
-export class AppComponent implements OnInit {
-  @Input() list: string;
+export class AppComponent {
+  list: string;
 
   constructor() {
     this.list = 'Super hero list';
-  }
-
-  ngOnInit() {
   }
 
 }
